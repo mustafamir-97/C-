@@ -8,4 +8,4 @@ Instructions:
 3. Matrix1:      Gauss-Jordan, Gauss-Seidel, and Jacobi used to solve a set of four linear equations
 4. Derivative3:  Central Difference method for second derivative
 5. Integral1:    Rectangular rule, trapezoidal rule, and Simpsons' rule for numerical integration
-6. Structures:   Molecular Dynamics performed utilizing structures. Velocities, positions for particles simulated as well as Kinematic and                  Potential Energies computed.
+6. Structures:   Molecular Dynamics performed utilizing structures. Velocities, positions for particles simulated as well as Kinematic and                  Potential Energies for individual particles and the system computed.
